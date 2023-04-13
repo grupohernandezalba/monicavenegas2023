@@ -99,21 +99,6 @@ h2, h1 {
 .pie-pagina{
   width: 100%;
 }
-.pie-pagina .grupo-1{
-  width: 100%;
-  max-width: 1200px;
-  margin: auto;
-  display:grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap:50px;
-  padding: 45px 0px;
-  text-align: left;
-}
-
-.pie-pagina .grupo-1 .box p{
-  color: #efefef;
-  margin-bottom: 10px;
-}
 
 .pie-pagina .grupo-2{
   padding: 15px 10px;
