@@ -119,5 +119,10 @@ a {
   flex-direction: column;
 }
 
+#img{
+  height: 90%;
+  width: 90%;
+}
+
 
 
