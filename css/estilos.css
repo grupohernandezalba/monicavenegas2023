@@ -41,6 +41,11 @@ h2, h1 {
   .imagenTestimonio {
     width: 200px;
   }  
+  #texto{
+    font-size: 12px;
+    padding-right: 70px;
+    padding-left: 70px;
+  }
 }
 
 #piedepagina{
