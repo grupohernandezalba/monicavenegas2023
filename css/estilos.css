@@ -89,8 +89,9 @@ h2, h1 {
 }
 
 .card-text{
-  flex-grow: 1;
+  flex-grow: 1
 }
+
 
 #registro{
   text-align: justify;
