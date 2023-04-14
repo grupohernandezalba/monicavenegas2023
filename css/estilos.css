@@ -19,13 +19,6 @@ h2, h1 {
   box-sizing: border-box;
 }
 
-.accordion-button {
-  font-size: 22.5px;
-}
-
-.accordion-body {
-  font-size: 18.5px;
-}
 
 #testimonios {
   background: rgb(47,35,196);
